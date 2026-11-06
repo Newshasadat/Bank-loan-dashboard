@@ -7,7 +7,7 @@
 مبالغ تأمین‌شده و مبالغ دریافتی را از ابعاد زمانی، جغرافیایی و ویژگی‌های
 وام‌گیرندگان نمایش می‌دهند.
 
-![bank loan report 1](dashboard1.png)
+![bank loan report 1](dashboard1.jpg)
 
 
 
