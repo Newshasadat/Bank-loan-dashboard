@@ -1,6 +1,5 @@
-# Readme
 
-🏦 Bank Loan Report | گزارش تحلیلی وام‌های بانکی
+# 🏦 Bank Loan Report | گزارش تحلیلی وام‌های بانکی
 
 ## 📌 معرفی پروژه (Project Overview)
 
