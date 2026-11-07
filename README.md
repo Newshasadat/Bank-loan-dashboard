@@ -92,7 +92,7 @@
 ----
 # داشبورد دوم 
 
-![bank loan report 1](dashboard2.jpg)
+![bank loan report 1](Dashboard2.jpg)
 
 
 ## تحلیل الگوهای وام‌دهی و رفتار مشتریان (Lending Trends & Borrower Analysis)
